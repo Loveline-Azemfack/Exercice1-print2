@@ -2,6 +2,6 @@
 #include <iostream>
 int main()
 {
-    std::cout<<"bonjour a tous!";
+    std::cout <<"bonjour a tous !"<< std::endl;
     return 0;
 }
